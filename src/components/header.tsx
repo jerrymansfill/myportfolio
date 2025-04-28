@@ -12,7 +12,7 @@ const Header: React.FC = () => {
       <nav className="navbar">
           <Link to="/"> <i className="fa fa-home"></i> <span>Home</span> </Link>
           <Link to="/about"> <i className="fa fa-user"></i> <span>about</span> </Link>
-          <Link to="/portfolio"> <i className="fa fa-briefcase"></i> <span>Workout</span></Link>
+          <Link to="#"> <i className="fa fa-briefcase"></i> <span>Workout</span></Link>
           <Link to="/contact"> <i className="fa fa-address-book"></i> <span>contact</span> </Link>
       </nav></>
   );
