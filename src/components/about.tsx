@@ -34,14 +34,14 @@ const About: React.FC = () => {
 
                       <div className="box">
                           <h3> <span>name : </span> Jeremiah George </h3>
-                          <h3> <span>age : </span> 20 </h3>
+                          <h3> <span>age : </span> 21 </h3>
                           <h3> <span>email : </span> jnyong67@gmail.com</h3>
                           <h3> <span>address : </span> Nigeria, Akwaibom sate, Uyo</h3>
                       </div>
 
                       <div className="box">
                           <h3> <span>skill : </span> Developer </h3>
-                          <h3> <span>experience : </span>3 year +</h3>
+                          <h3> <span>experience : </span>4 years +</h3>
                           <h3> <span>language : </span> english </h3>
                       </div>
 
