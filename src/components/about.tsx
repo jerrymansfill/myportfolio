@@ -54,7 +54,7 @@ const About: React.FC = () => {
               <div className="count-container">
 
                   <div className="box">
-                      <h3>3+</h3>
+                      <h3>4+</h3>
                       <p>years of experience</p>
                   </div>
 
